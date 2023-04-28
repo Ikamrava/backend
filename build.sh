@@ -1,4 +1,4 @@
-pip install -r build.sh
+pip install -r deps.txt
 
 python manage.py migrate
 
